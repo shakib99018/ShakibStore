@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ping",
+    "description": "Bot response test",
+    "author": "Shakib",
+    "version": "1.0.0",
+    "category": "utility"
+  },
+  {
+    "name": "hello",
+    "description": "Greeting command",
+    "author": "Shakib",
+    "version": "1.0.0",
+    "category": "fun"
+  }
+]
