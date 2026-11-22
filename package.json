@@ -1,0 +1,9 @@
+{
+  "name": "shakibstore",
+  "version": "1.0.0",
+  "description": "Shakib's own command store API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
